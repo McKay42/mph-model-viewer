@@ -7,6 +7,10 @@ You can also walk around the models (standard first-person controls), [Bullet](h
 * **Vertex colors** must be supported when importing the collada file elsewhere (for the lightmaps to work)
 * If your modeling software doesn't support vertex colors in collada files, use [Blender](https://www.blender.org/) to import and then export in a different format which does support them
 * If you want the exported models to look like they do in-game, create a multiplication shader/node for every material/texture which multiplies the interpolated vertex color (lightmap) with the albedo color (texture)
+* Character models don't really work, since all bones are centered at ```(0,0,0)```, and their textures are broken
+* Animations are not supported
+
+Runs on McEngine: [https://github.com/McKay42/McEngine](https://github.com/McKay42/McEngine)
 
 ## Usage
 * Copy your ```*.bin``` model and texture files into ```/<ModelViewer>/mph/models/``` and ```/<ModelViewer>/mph/textures/``` respectively
