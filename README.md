@@ -15,6 +15,10 @@ You can also walk around the models (standard first-person controls), [Bullet](h
 
 Runs on McEngine: [https://github.com/McKay42/McEngine](https://github.com/McKay42/McEngine)
 
+Demo 1: [https://www.youtube.com/watch?v=9YTE4l2uRgo](https://www.youtube.com/watch?v=9YTE4l2uRgo)
+
+Demo 2: [https://youtu.be/BSn59ebjOnw](https://youtu.be/BSn59ebjOnw?t=2m53s)
+
 ## Usage
 * Copy your ```*.bin``` model and texture files into ```/<ModelViewer>/mph/models/``` and ```/<ModelViewer>/mph/textures/``` respectively
 * Click on [Open] and navigate to ```/<ModelViewer>/mph/models/```, then select the model you want to view
