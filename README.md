@@ -14,6 +14,7 @@ Runs on McEngine: [https://github.com/McKay42/McEngine](https://github.com/McKay
 
 ## Usage
 * Copy your ```*.bin``` model and texture files into ```/<ModelViewer>/mph/models/``` and ```/<ModelViewer>/mph/textures/``` respectively
+* Click on [Open] and navigate to ```/<ModelViewer>/mph/models/```, then select the model you want to view
 * Exported files will go into ```/<ModelViewer>/exports/```
 * Keep the exported collada and png files together in the same directory (for importing)
 
