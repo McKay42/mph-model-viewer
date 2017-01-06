@@ -1,4 +1,7 @@
 # mph-model-viewer
+
+**[DOWNLOAD > https://github.com/McKay42/mph-model-viewer/releases](https://github.com/McKay42/mph-model-viewer/releases)**
+
 View/export the models and textures found in [Metroid Prime Hunters](https://en.wikipedia.org/wiki/Metroid_Prime_Hunters).
 
 You can also walk around the models (standard first-person controls), [Bullet](http://bulletphysics.org/) is used as a physics engine for player movement.
